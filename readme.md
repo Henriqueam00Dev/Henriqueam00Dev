@@ -35,7 +35,7 @@ Me chamo Henrique Almeida Macedo, tenho 25 anos e sou natural de Minas Gerais. S
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power%20BI.svg" 
+    src="https://img.icons8.com/color/48/power-bi.png" 
 />
 <img 
     align="left" 
